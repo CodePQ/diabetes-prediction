@@ -1,4 +1,4 @@
-# Diabetess Prediction using Logistic Regression
+# Diabetes Prediction using Logistic Regression
 
 A medical data science project that predicts the risk of a patient developing diabetes risk using patient data from the Pima Indians Diabetes dataset.
 
